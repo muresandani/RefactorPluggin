@@ -27,7 +27,7 @@
     <actions>
         <action id="com.example.myplugin.MyAction"
                 class="com.example.myplugin.MyAction"
-                text="My Custom Action"
+                text="Refactor"
                 description="Performs my custom action">
             <add-to-group group-id="ProjectViewPopupMenu" anchor="last"/>
         </action>

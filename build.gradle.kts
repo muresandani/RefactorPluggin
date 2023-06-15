@@ -9,6 +9,8 @@ dependencies {
     implementation("com.squareup.moshi:moshi:1.12.0")
     implementation("com.squareup.moshi:moshi-kotlin:1.12.0")
     implementation ("org.json:json:20210307")
+    implementation ("com.google.code.gson:gson:2.8.8")
+
 }
 
 group = "com.example"
